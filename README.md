@@ -1,0 +1,1 @@
+# pytest-group-multiple-tests-in-a-class
